@@ -1,10 +1,9 @@
-package org.launchcode.java.studios.areaofacircle.org.launchcode.java.studios;
+package Studios;
 
 import java.util.HashMap;
-import java.util.Map;
 import java.util.Scanner;
 
-public class Conting {
+public class Counting {
 
     public static void main(String[] args) {
 
